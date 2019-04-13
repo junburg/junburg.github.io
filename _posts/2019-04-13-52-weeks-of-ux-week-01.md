@@ -1,5 +1,5 @@
 ---
-title: 52 Weeks of UX: Week 01, The First Rule Of UX
+title: 52 Weeks of UX, Week 01, The First Rule Of UX
 updated: 2019-04-13 20:54
 ---
 
