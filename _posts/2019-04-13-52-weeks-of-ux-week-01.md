@@ -1,9 +1,9 @@
 ---
-title: 52 Weeks of UX. Week 01. The First Rule Of UX
+title: 52 Weeks of UX. Week 01. 사용자 경험의 첫 번째 규칙
 updated: 2019-04-13 20:54
 ---
 
-## Week 01, The First Rule Of UX
+## Week 01, 사용자 경험의 첫 번째 규칙
 
 <div class="divider"></div>
 
